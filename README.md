@@ -1,1 +1,2 @@
-Shell task
+#!/bin/bash
+Shell basics task
